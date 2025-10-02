@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
   <diagram name="Página-1" id="EpuZV5tqrL_YEkNlYb2H">
-    <mxGraphModel dx="782" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1111" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vs4TksEanwvYEksvdTvs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="340" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="0v48IfNwq-kL9UFPa0wB-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="B15f_A7kZ74M6OmdDk2L-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="362.5000000000002" y="80" as="sourcePoint" />
@@ -25,8 +28,8 @@
         <mxCell id="0v48IfNwq-kL9UFPa0wB-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="230" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; color: rgb(0, 0, 0); display: inline !important;&quot;&gt;Liga a luz Verde do A por 15s.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="160" y="230" width="130" height="40" as="geometry" />
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-11" value="&lt;div align=&quot;left&quot;&gt;Aciona TG1 por 15s.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="160" y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0v48IfNwq-kL9UFPa0wB-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="270" width="40" height="60" as="geometry" />
@@ -43,7 +46,7 @@
             <mxPoint x="359.5" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="0v48IfNwq-kL9UFPa0wB-28">
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="0v48IfNwq-kL9UFPa0wB-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="130" as="sourcePoint" />
             <mxPoint x="656.5" y="230" as="targetPoint" />
@@ -58,22 +61,22 @@
         <mxCell id="0v48IfNwq-kL9UFPa0wB-36" value="CH1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="160" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-37" value="&lt;span style=&quot;&quot;&gt;Liga a luz Verde do A por 20s.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-37" value="&lt;div align=&quot;left&quot;&gt;Aciona TG4 por 20s.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="440" y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-47" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="0v48IfNwq-kL9UFPa0wB-37" source="0v48IfNwq-kL9UFPa0wB-26">
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-47" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0v48IfNwq-kL9UFPa0wB-26" target="0v48IfNwq-kL9UFPa0wB-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="249.5" as="sourcePoint" />
             <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-50" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="0v48IfNwq-kL9UFPa0wB-51" source="0v48IfNwq-kL9UFPa0wB-28">
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-50" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0v48IfNwq-kL9UFPa0wB-28" target="0v48IfNwq-kL9UFPa0wB-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="677" y="249.5" as="sourcePoint" />
             <mxPoint x="717" y="249.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-51" value="Liga todas as luzes Amarelas." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-51" value="&lt;div&gt;Aciona TG7 por 3s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="720.5" y="230" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0v48IfNwq-kL9UFPa0wB-54" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -103,8 +106,8 @@
             <mxPoint x="680" y="349.71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-65" value="3s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="677" y="340" width="30" height="20" as="geometry" />
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-65" value="TG7&#39;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="607" y="340" width="33" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0v48IfNwq-kL9UFPa0wB-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="0v48IfNwq-kL9UFPa0wB-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -150,7 +153,7 @@
             <mxPoint x="667" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="0v48IfNwq-kL9UFPa0wB-59">
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="0v48IfNwq-kL9UFPa0wB-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="470" as="sourcePoint" />
             <mxPoint x="656.58" y="430" as="targetPoint" />
@@ -228,7 +231,7 @@
             <mxPoint x="380" y="548.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-89" value="Luz A, Luz B e Luz C desligadas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-89" value="TG4&#39; &amp;amp; TG5&#39; &amp;amp; TG6&#39;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="534" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0v48IfNwq-kL9UFPa0wB-90" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -237,7 +240,7 @@
             <mxPoint x="100" y="548.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0v48IfNwq-kL9UFPa0wB-91" value="Luz A, Luz B e Luz C desligadas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="0v48IfNwq-kL9UFPa0wB-91" value="TG1&#39; &amp;amp; TG2&#39; &amp;amp; TG3&#39;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="534" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0v48IfNwq-kL9UFPa0wB-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="B15f_A7kZ74M6OmdDk2L-7" edge="1">
@@ -251,44 +254,50 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="0v48IfNwq-kL9UFPa0wB-8">
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="0v48IfNwq-kL9UFPa0wB-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="130" as="sourcePoint" />
             <mxPoint x="85" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-3" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Liga a luz Verde do B por 20s.&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;Se a luz A estiver desligada.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="270" width="130" height="60" as="geometry" />
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-3" value="&lt;div align=&quot;left&quot;&gt;Aciona TG2 por 20s&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;se TG1 estiver desligado.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-4" value="&lt;div style=&quot;&quot;&gt;Liga a luz Verde do C por 30s.&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Se a luz A e a luz B estiverem desligadas.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="330" width="130" height="60" as="geometry" />
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-4" value="&lt;div&gt;Aciona TG3 por 30s&lt;/div&gt;&lt;div&gt;se TG1 e TG2 estiverem desligados.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="330" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="20" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="30" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0v48IfNwq-kL9UFPa0wB-8" target="0v48IfNwq-kL9UFPa0wB-11">
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0v48IfNwq-kL9UFPa0wB-8" target="0v48IfNwq-kL9UFPa0wB-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="370" as="sourcePoint" />
             <mxPoint x="380" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-13" value="&lt;div&gt;Liga a luz Verde do B por 20s.&lt;/div&gt;&lt;div&gt;Se a luz A estiver desligada.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-13" value="&lt;div align=&quot;left&quot;&gt;Aciona TG5 por 20s&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;se TG4 estiver desligado.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="440" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-14" value="&lt;div&gt;Liga a luz Verde do C por 20s.&lt;/div&gt;&lt;div&gt;Se a luz A e a luz B estiverem desligadas.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-14" value="&lt;div&gt;Aciona TG6 por 20s&lt;/div&gt;&lt;div&gt;se TG4 e TG5 estiverem desligados.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="440" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-15" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-15" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="270" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B15f_A7kZ74M6OmdDk2L-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B15f_A7kZ74M6OmdDk2L-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="330" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs4TksEanwvYEksvdTvs-1" value="&lt;div&gt;Início&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vs4TksEanwvYEksvdTvs-2" value="&lt;div align=&quot;justify&quot;&gt;Observação: A luz verde do A é acionada por TG1 ou TG4, a luz verde do B é acionada por TG2 ou TG5, a luz verde do C é acionada por TG3 ou TG6 e as luzes amarelas do A,B e C são todas acionadas por TG7.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="20" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
